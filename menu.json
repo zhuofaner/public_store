@@ -3,7 +3,7 @@
     "exhibition":"<p text=\"潮玩造物展\"/><color:red text=\"抽奖指南\"/>🔥",
     "tutor_changan" : { 
         "label": "<p text=\"《长安不良录》教学🔥\"/>", 
-        "url": "maze://mock/assets/mock/maze.md"
+        "url": "maze://raw.githubusercontent.com/zhuofaner/public_store/master/hot/changan_tutor.md"
     },
     "title_function": "基本功能:",
     "tutor": "<p text=\"软件教学\"/><red text=\"【限时开放】\"/>",
