@@ -1,14 +1,17 @@
 {
     "title_latest":"最新活动:",
-    "exhibition":"潮玩造物展<color:red text=\"抽奖指南\"/>🔥",
-    "tutor_changan" : "《长安不良录》教学🔥",
+    "exhibition":"<p text=\"潮玩造物展\"/><color:red text=\"抽奖指南\"/>🔥",
+    "tutor_changan" : { 
+        "label": "<p text=\"《长安不良录》教学🔥\"/>", 
+        "url": "maze://mock/assets/mock/maze.md"
+    },
     "title_function": "基本功能:",
-    "tutor": "软件教学<red text=\"【限时开放】\"/>",
+    "tutor": "<p text=\"软件教学\"/><red text=\"【限时开放】\"/>",
     "subscription_list": "~~订阅列表~~",
     "task_list":"~~任务列表~~",
-    "mine":"❤ 我的收藏<grey text=\"「规划中」\"/>",
-    "config": "⚙ 设置<blue text=\"「开发中」\"/>",
-    "version": "版本信息<blue text=\"「测试中」\"/>",
-    "join": "🔽 加入内测 🔽",
-    "qrcode": "<img width=\"150\" src=\"https://github.com/zhuofaner/public_store/raw/master/qrcode/shiyichaowan_.pic_hd.jpg\">"
+    "mine":"<p text=\"❤ 我的收藏\"/><grey text=\"「规划中」\"/>",
+    "config": "<p text=\"⚙ 设置\"/><blue text=\"「开发中」\"/>",
+    "version": "<p text=\"版本信息\"/><blue text=\"「测试中」\"/>",
+    "join": "<p text=\"🔽 加入内测 🔽\"/>",
+    "qrcode": "<img width=\"150\" src=\"https://github.com/zhuofaner/public_store/raw/master/qrcode/shiyichaowan_.pic_sd.jpg\">"
 }
