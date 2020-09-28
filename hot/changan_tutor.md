@@ -151,3 +151,26 @@
 //自身棋子的联动可以突破行动力限制
 ```
 
+# [教学4: 官员行动](4)
+
+## 视频演示
+
+![https://www.zhihu.com/zvideo/1292183218054668288](https://github.com/zhuofaner/public_store/raw/master/hot/pic/tutor4.jpeg)
+
+# [教学5: 官员行动](5)
+
+## 视频演示
+
+![https://www.zhihu.com/zvideo/1292183594802900992](https://github.com/zhuofaner/public_store/raw/master/hot/pic/tutor5.jpeg)
+
+# [教学6: 官员行动](6)
+
+## 视频演示
+
+![https://www.zhihu.com/zvideo/1292184311241256960](https://github.com/zhuofaner/public_store/raw/master/hot/pic/tutor6.jpeg)
+
+# [教学7: 官员行动](7)
+
+## 视频演示
+
+![https://www.zhihu.com/zvideo/1292185330037309440](https://github.com/zhuofaner/public_store/raw/master/hot/pic/tutor7.jpeg)
