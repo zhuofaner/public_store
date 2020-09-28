@@ -1,13 +1,13 @@
 {
-	"version": "v0.0.1",
-	"menu": "2020-09-29",
-	"banner": {
-		"latest": "2020-09-29",
-		"guide": {
-			"title": "潮玩展十一盛大开幕",
-			"url": "banner/guide.md"
-		}
-	},
-	"gift": "2020-09-29",
-	"global": null
+    "version": "v0.0.1",
+    "menu": "2020-09-29",
+    "banner": {
+        "latest": "guide",
+        "guide": {
+            "title": "潮玩展十一盛大开幕",
+            "url": "banner/guide.md"
+        }
+    },
+    "gift": "2020-09-29",
+    "global": null
 }
