@@ -1,6 +1,7 @@
 # 长安不良录视频图文教学
 
 当前版本 `v 0.0.1` 
+- v0.0.1 完成`教学1`、`教学2`、`教学3`
 
 # [教学1: 游戏准备](1)
 
@@ -151,25 +152,25 @@
 //自身棋子的联动可以突破行动力限制
 ```
 
-# [教学4: 官员行动](4)
+# [教学4: 官兵不良人行动](4)
 
 ## 视频演示
 
 ![https://www.zhihu.com/zvideo/1292183218054668288](https://github.com/zhuofaner/public_store/raw/master/hot/pic/tutor4.jpeg)
 
-# [教学5: 官员行动](5)
+# [教学5: 刺客行动/戒严阶段](5)
 
 ## 视频演示
 
 ![https://www.zhihu.com/zvideo/1292183594802900992](https://github.com/zhuofaner/public_store/raw/master/hot/pic/tutor5.jpeg)
 
-# [教学6: 官员行动](6)
+# [教学6: 戒严结算](6)
 
 ## 视频演示
 
 ![https://www.zhihu.com/zvideo/1292184311241256960](https://github.com/zhuofaner/public_store/raw/master/hot/pic/tutor6.jpeg)
 
-# [教学7: 官员行动](7)
+# [教学7: FAQ](7)
 
 ## 视频演示
 
