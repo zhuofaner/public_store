@@ -3,7 +3,7 @@
     "exhibition":"<p text=\"潮玩造物展\"/><color:red text=\"抽奖指南\"/>🔥",
     "tutor_changan" : { 
         "label": "<p text=\"《长安不良录》教学🔥\"/>", 
-        "url": "maze://raw.githubusercontent.com/zhuofaner/public_store/master/hot/changan_tutor.md"
+        "url": "maze://gitee.com/da-jia-vinci-studio/public_store/raw/master/hot/changan_tutor.md"
     },
     "title_function": "基本功能:",
     "tutor": "<p text=\"软件教学\"/><red text=\"【限时开放】\"/>",
@@ -12,6 +12,6 @@
     "mine":"<p text=\"❤ 我的收藏\"/><grey text=\"「规划中」\"/>",
     "config": "<p text=\"⚙ 设置\"/><blue text=\"「开发中」\"/>",
     "version": "<p text=\"版本信息\"/><blue text=\"「测试中」\"/>",
-    "join": "<p text=\"🔽 加入内测 🔽\"/>",
-    "qrcode": "<img width=\"150\" src=\"https://github.com/zhuofaner/public_store/raw/master/qrcode/shiyichaowan_.pic_sd.jpg\">"
+    "join": "<p text=\"🔽 加入内测和活动 🔽\"/>",
+    "qrcode": "![https://gitee.com/da-jia-vinci-studio/public_store/raw/master/qrcode/shiyichaowan_.pic_sd.jpg](https://gitee.com/da-jia-vinci-studio/public_store/raw/master/qrcode/shiyichaowan_.pic_sd.jpg)"
 }
