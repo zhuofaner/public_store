@@ -2,7 +2,11 @@
     "version": "v0.0.1",
     "menu": "2020-09-29",
     "banner": {
-        "latest": "firstday-smile,guide",
+        "latest": "second-day-smile,firstday-smile",
+        "second-day-smile": {
+            "title": "【活动简报/软件更新】",
+            "url": "temp/second-day.md"
+        },
 		"firstday-smile": {
             "title": "潮玩展首日奖品告罄!",
             "url": "temp/firstday.md"
