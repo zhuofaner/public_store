@@ -2,7 +2,11 @@
     "version": "v0.0.1",
     "menu": "2020-09-29",
     "banner": {
-        "latest": "second-day-smile,firstday-smile",
+        "latest": "third-day-smile-learn,second-day-smile,firstday-smile",
+        "third-day-smile-learn": {
+            "title": "【活动简报/教学视频】",
+            "url": "temp/third-day.md"
+        },
         "second-day-smile": {
             "title": "【活动简报/软件更新】",
             "url": "temp/second-day.md"
