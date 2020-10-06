@@ -2,7 +2,11 @@
     "version": "v0.0.1",
     "menu": "2020-09-29",
     "banner": {
-        "latest": "forth-day-smile-learn,third-day-smile-learn,second-day-smile,firstday-smile",
+        "latest": "fifth-day-smile-learn,forth-day-smile-learn,third-day-smile-learn,second-day-smile,firstday-smile",
+        "fifth-day-smile-learn":{
+            "title": "【活动简报/文章/专栏介绍】",
+            "url": "temp/fifth-day.md"
+        },        
         "forth-day-smile-learn":{
             "title": "【活动简报/教学视频】",
             "url": "temp/forth-day.md"
