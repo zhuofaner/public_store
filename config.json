@@ -2,10 +2,10 @@
     "version": "v0.0.1",
     "menu": "2020-09-29",
     "banner": {
-        "latest": "test,fifth-day-smile-learn,forth-day-smile-learn,third-day-smile-learn,second-day-smile,firstday-smile",
-        "test":{
-            "title": "【软件更新】",
-            "url": "qrcode/download.md"
+        "latest": "update-v0.0.2,fifth-day-smile-learn,forth-day-smile-learn,third-day-smile-learn,second-day-smile,firstday-smile",
+        "update-v0.0.2":{
+            "title": "【版本更新v0.0.2】",
+            "url": "version/public_v0.0.2.md"
         },
         "fifth-day-smile-learn":{
             "title": "【活动简报/文章/专栏介绍】",
@@ -26,10 +26,6 @@
 		"firstday-smile": {
             "title": "潮玩展首日奖品告罄!",
             "url": "temp/firstday.md"
-        },
-        "guide": {
-            "title": "潮玩展十一盛大开幕",
-            "url": "banner/guide.md"
         }
     },
     "gift": "2020-09-29",
