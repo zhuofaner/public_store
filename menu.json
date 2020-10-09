@@ -1,17 +1,23 @@
 {
     "title_latest":"最新活动:",
-    "exhibition":"<p text=\"潮玩造物展\"/><color:red text=\"抽奖指南\"/>🔥",
     "tutor_changan" : { 
         "label": "<p text=\"《长安不良录》教学🔥\"/>", 
         "url": "maze://gitee.com/da-jia-vinci-studio/public_store/raw/master/hot/changan_tutor.md"
     },
     "title_function": "基本功能:",
-    "tutor": "<p text=\"软件教学\"/><red text=\"【限时开放】\"/>",
+    "tutor": {
+        "label": "<p text=\"软件教学\"/><red text=\"【已更新】\"/>",
+        "url": "maze://gitee.com/da-jia-vinci-studio/public_store/raw/master/tutor/app/basic/lesson1.md"
+    },
     "subscription_list": "~~订阅列表~~",
     "task_list":"~~任务列表~~",
     "mine":"<p text=\"❤ 我的收藏\"/><grey text=\"「规划中」\"/>",
     "config": "<p text=\"⚙ 设置\"/><blue text=\"「开发中」\"/>",
-    "version": "<p text=\"版本信息\"/><blue text=\"「测试中」\"/>",
-    "join": "<p text=\"🔽 加入内测和活动 🔽\"/>",
-    "qrcode": "![https://gitee.com/da-jia-vinci-studio/public_store/raw/master/qrcode/shiyichaowan_.pic_sd.jpg](https://gitee.com/da-jia-vinci-studio/public_store/raw/master/qrcode/shiyichaowan_.pic_sd.jpg)"
+    "version":{
+        "label":"<p text=\"版本信息\"/><red text=\"【新v0.0.2】\"/>", 
+        "url":"maze://gitee.com/da-jia-vinci-studio/public_store/raw/master/version/public_v0.0.2.md"
+    },
+    "join":"<p text=\"👇 软件更新v0.0.2点击下载\"/>", 
+    "qrcode": "![https://alpha-app-download.oss-cn-beijing.aliyuncs.com/operator/2020-10-01/app-arm64-v8a-release.apk](https://gitee.com/da-jia-vinci-studio/public_store/raw/master/qrcode/apk-download.png)"
 }
+
