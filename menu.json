@@ -1,5 +1,9 @@
 {
     "title_latest":"最新活动:",
+    "exhibition": {
+        "label": "<p text=\"果酱V视新版本实战教学🔥\"/>", 
+        "url": "maze://gitee.com/da-jia-vinci-studio/public_store/raw/master/tutor/app/example/v0.0.2-full.md"
+    },
     "tutor_changan" : { 
         "label": "<p text=\"《长安不良录》教学🔥\"/>", 
         "url": "maze://gitee.com/da-jia-vinci-studio/public_store/raw/master/hot/changan_tutor.md"
