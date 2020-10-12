@@ -2,7 +2,11 @@
     "version": "v0.0.1",
     "menu": "2020-09-29",
     "banner": {
-        "latest": "update-v0.0.2,fifth-day-smile-learn,forth-day-smile-learn,third-day-smile-learn,second-day-smile,firstday-smile",
+        "latest": "oss-tutorial,update-v0.0.2",
+        "oss-tutorial":{
+            "title": "【教程/科普】",
+            "url": "tutor/training/oss_tutoring.md"
+        },
         "update-v0.0.2":{
             "title": "【版本更新v0.0.2】",
             "url": "version/public_v0.0.2.md"

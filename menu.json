@@ -1,5 +1,9 @@
 {
     "title_latest":"最新活动:",
+    "temp": {
+        "label": "<p text=\"阿里云OSS应用实战\"/><blue text=\"【创业者必修课】🔥\"/>", 
+        "url": "maze://gitee.com/da-jia-vinci-studio/public_store/raw/master/tutor/training/oss_tutoring.md"
+    },
     "exhibition": {
         "label": "<p text=\"果酱V视新版本实战教学🔥\"/>", 
         "url": "maze://gitee.com/da-jia-vinci-studio/public_store/raw/master/tutor/app/example/v0.0.2-full.md"
