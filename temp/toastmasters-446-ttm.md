@@ -69,3 +69,4 @@ Talent is kind a belief, let you believe you are different. Taking talent as see
 
 And I think you are not far from that. Enjoy beeing yourself. Enjoy your talent !
 
+![](ttm-446-hd.jpg)
