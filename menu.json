@@ -17,7 +17,10 @@
         "label": "<p text=\"软件教学\"/><red text=\"【已更新】\"/>",
         "url": "maze://gitee.com/da-jia-vinci-studio/public_store/raw/master/tutor/app/basic/lesson1.md"
     },
-    "subscription_list": "~~订阅列表~~",
+    "subscription_list": {
+        "label": "<p text=\"订阅列表\"/><red text=\"【限时开放】\"/>",
+        "url": "maze://gitee.com/da-jia-vinci-studio/public_store/raw/master/temp/toastmasters-446-ttm.md"
+    },
     "task_list":"~~任务列表~~",
     "mine":"<p text=\"❤ 我的收藏\"/><grey text=\"「规划中」\"/>",
     "config": "<p text=\"⚙ 设置\"/><blue text=\"「开发中」\"/>",
