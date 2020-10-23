@@ -25,4 +25,4 @@
 
 完整演示如何利用菜单项完成  `复制` -> `锁定` -> `解锁` -> `更换颜色` -> `回收`
 
-![https://www.zhihu.com/zvideo/1303094815849218048](/Users/zhuofaner/Workspace/public_store/tutor/app/basic/pic/video_3_4_container.jpg)
+![https://www.zhihu.com/zvideo/1303094815849218048](pic/video_3_4_container.jpg)
