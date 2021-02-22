@@ -78,11 +78,13 @@
 使用 `width`、`height` 标签族进行栏目的宽度固定，从而得到统一的视觉效果。
 
 ```jamv
-<center 标签名 merged/><right-start width_150 说明 merged/><end width_75 标签族/><center text="minWidth" merged/><right-start width_150 设置最小宽度 merged/><end width_75 text="width"/>
-<center text="maxWidth" merged/><right-start width_150 设置最大宽度 merged/><end width_75 text="width"/>
-<center text="minHeight" merged/><right-start width_150 设置最小高度 merged/><end width_75 text="height"/>
-<center text="maxHeight" merged/><right-start width_150 设置最大高度merged/><end width_75 text="height"/>
+<center 标签名 merged/><right width_75 说明 merged/><right width_75 标签族/>
+<center text="minWidth" merged/><right width_75 设置最小宽度 merged/><right width_75 text="width"/>
+<center text="maxWidth" merged/><right width_75 设置最大宽度 merged/><right width_75 text="width"/>
+<center text="minHeight" merged/><right width_75 设置最小高度 merged/><right width_75 text="height"/>
+<center text="maxHeight" merged/><right width_75 设置最大高度 merged/><right width_75 text="height"/>
 ```
+
 > 所有标签属性都有标准的赋值写法 例如: text="我是内容", width="75" 然后直接使用标签的简写方式 `<p width_75 我是内容/>` 更加酷炫！
 >
 > 注意⚠️：有特殊字符或者不想作为属性解析时必须使用标准写法。
