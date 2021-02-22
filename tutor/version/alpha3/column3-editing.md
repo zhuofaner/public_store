@@ -1,4 +1,4 @@
-# [三栏排版][1]
+# [三栏排版](1)
 
 > 三栏排版是果酱V视 app 内部采用的一种排版方法，使用自行扩展的 html 标签语法，具有可扩展、快速和自组合的特点，是编写精美的菜单项最重要的利器。
 
@@ -33,8 +33,6 @@
 <left 我在左边/><center 我在中间 merged/><right 我在右边/>
 ```
 
-<left 我在左边/><center 我在中间 merged/><right 我在右边/>
-
 ![ignore]()
 
 ### merged 效果3
@@ -66,12 +64,12 @@
 #### 一个居右的彩色点击提示符
 
 ```jamv
-<right-start big 点击进入/><green text=">"><small red text=">"><blue end text=">">
+<right-start big 点击进入/><green small text=">"><small red text=">"><blue end small text=">">
 ```
 
 ![ignore]()
 
-> 看到了么，在这一个示例中我们几乎是用了所有类型的属性作为标签名字，理论上一个单独的一栏或者被merged 过的标签都是<p> 元素也就是行内元素，这与<div> 块状元素相对应，他们的区别就是是否需要换行。
+> 看到了么，在这一个示例中我们几乎是用了所有类型的属性作为标签名字，理论上一个单独的一栏或者被merged 过的标签都是`<p>` 元素也就是行内元素，这与`<div>` 块状元素相对应，他们的区别就是是否需要换行。
 
 ## 定宽
 
@@ -80,18 +78,18 @@
 使用 `width`、`height` 标签族进行栏目的宽度固定，从而得到统一的视觉效果。
 
 ```jamv
-<center 标签名 merged/><right-start width_150 说明/><end width_75 标签族/><center text="minWidth" merged/><right-start width_150 设置最小宽度/><end width_75 text="width"/>
-<center text="maxWidth" merged/><right-start width_150 设置最大宽度/><end width_75 text="width"/>
-<center text="minHeight" merged/><right-start width_150 设置最小高度/><end width_75 text="height"/>
-<center text="maxHeight" merged/><right-start width_150 设置最大高度/><end width_75 text="height"/>
+<center 标签名 merged/><right-start width_150 说明 merged/><end width_75 标签族/><center text="minWidth" merged/><right-start width_150 设置最小宽度 merged/><end width_75 text="width"/>
+<center text="maxWidth" merged/><right-start width_150 设置最大宽度 merged/><end width_75 text="width"/>
+<center text="minHeight" merged/><right-start width_150 设置最小高度 merged/><end width_75 text="height"/>
+<center text="maxHeight" merged/><right-start width_150 设置最大高度merged/><end width_75 text="height"/>
 ```
-> 所有标签属性都有标准的赋值写法 例如: text="我是内容", width="75" 然后直接使用标签的简写方式 <p width_75 我是内容/> 更加酷炫！
+> 所有标签属性都有标准的赋值写法 例如: text="我是内容", width="75" 然后直接使用标签的简写方式 `<p width_75 我是内容/>` 更加酷炫！
 >
 > 注意⚠️：有特殊字符或者不想作为属性解析时必须使用标准写法。
 
 以上我们使用定宽创造了一种表格的写法，虽然 markdown 有自己的表格书写方式，但是还不够灵活。
 
-# [让菜单更生动][2]
+# [让菜单更生动](2)
 
 > 让菜单更加生动的手段有很多种，设置文字背景图、图标、emoji表情甚至动画。
 
@@ -101,7 +99,7 @@
 
 ```jamv
 <left width_55 src="http://gitee.com/da-jia-vinci-studio/public_store/raw/master/pic/jack-small.png" bottom merged/>
-<bg center-start padding_7_14_7_25 9patch_15_5_27_20 src=\"http://gitee.com/da-jia-vinci-studio/public_store/raw/master/pic/dialog-style-pink.png\"/><center-end #ff0000 大家好，我是果酱V视APP的设计师Jack，这是一份背景图测试/>
+<bg center-start padding_7_14_7_25 9patch_15_5_27_20 src="http://gitee.com/da-jia-vinci-studio/public_store/raw/master/pic/dialog-style-pink.png"/><center-end #ff0000 大家好，我是果酱V视APP的设计师Jack，这是一份背景图测试/>
 ```
 
 ![ignore]()
